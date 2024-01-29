@@ -1,0 +1,112 @@
+[
+    {
+        "flightID": 1,
+        "name": "Flight 1",
+        "price": 300,
+        "sourceID": 1,
+        "destinationID": 2,
+        "departureDate": "2023-12-15",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 2,
+        "name": "Flight 2",
+        "price": 250,
+        "sourceID": 3,
+        "destinationID": 4,
+        "departureDate": "2023-12-18",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 3,
+        "name": "Flight 3",
+        "price": 400,
+        "sourceID": 5,
+        "destinationID": 6,
+        "departureDate": "2023-12-20",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 4,
+        "name": "Flight 4",
+        "price": 350,
+        "sourceID": 2,
+        "destinationID": 1,
+        "departureDate": "2023-12-22",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 5,
+        "name": "Flight 5",
+        "price": 280,
+        "sourceID": 4,
+        "destinationID": 3,
+        "departureDate": "2023-12-25",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 6,
+        "name": "Flight 6",
+        "price": 420,
+        "sourceID": 6,
+        "destinationID": 5,
+        "departureDate": "2023-12-28",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 7,
+        "name": "Flight 7",
+        "price": 320,
+        "sourceID": 1,
+        "destinationID": 3,
+        "departureDate": "2023-12-30",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 8,
+        "name": "Flight 8",
+        "price": 260,
+        "sourceID": 3,
+        "destinationID": 5,
+        "departureDate": "2024-01-02",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 9,
+        "name": "Flight 9",
+        "price": 380,
+        "sourceID": 5,
+        "destinationID": 1,
+        "departureDate": "2024-01-05",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    },
+    {
+        "flightID": 10,
+        "name": "Flight 10",
+        "price": 310,
+        "sourceID": 2,
+        "destinationID": 4,
+        "departureDate": "2024-01-08",
+        "totalSeat": 10,
+        "availableSeats": 10,
+        "bookedSeats": 0
+    }
+]
