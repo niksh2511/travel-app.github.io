@@ -2,6 +2,7 @@
   "name": "travel-app.github.io",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/niksh2511/travel-app.github.io.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +10,7 @@
     "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview --port 8080"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
